@@ -1,0 +1,59 @@
+name: simpy-lab
+channels:
+  - mro
+  - r
+  - defaults
+dependencies:
+  - appnope=0.1.0
+  - backcall=0.1.0
+  - blas=1.0
+  - ca-certificates=2018.03.07
+  - certifi=2018.11.29
+  - decorator=4.3.0
+  - intel-openmp=2019.1
+  - ipykernel=5.1.0
+  - ipython=7.2.0
+  - ipython_genutils=0.2.0
+  - jedi=0.13.1
+  - jupyter_client=5.2.3
+  - jupyter_core=4.4.0
+  - libcxx=4.0.1
+  - libcxxabi=4.0.1
+  - libedit=3.1.20170329
+  - libffi=3.2.1
+  - libgfortran=3.0.1
+  - libsodium=1.0.16
+  - mkl=2018.0.3
+  - mkl_fft=1.0.6
+  - mkl_random=1.0.1
+  - ncurses=6.1
+  - numpy=1.15.4
+  - numpy-base=1.15.4
+  - openssl=1.1.1a
+  - pandas=0.23.4
+  - parso=0.3.1
+  - pexpect=4.6.0
+  - pickleshare=0.7.5
+  - pip=18.1
+  - prompt_toolkit=2.0.7
+  - ptyprocess=0.6.0
+  - pygments=2.2.0
+  - python=3.7.1
+  - python-dateutil=2.7.5
+  - pytz=2018.7
+  - pyzmq=17.1.2
+  - readline=7.0
+  - scipy=1.1.0
+  - setuptools=40.6.2
+  - six=1.12.0
+  - sqlite=3.25.3
+  - tk=8.6.8
+  - tornado=5.1.1
+  - traitlets=4.3.2
+  - wcwidth=0.1.7
+  - wheel=0.32.3
+  - xz=5.2.4
+  - zeromq=4.2.5
+  - zlib=1.2.11
+prefix: /anaconda3/envs/simpy-lab
+
